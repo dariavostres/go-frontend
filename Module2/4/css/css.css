@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parrent{
+    margin: 5px;
+}
+
+.child-orange{
+width: 295px;
+height: 115px;
+background-color: #ff733a;
+}
+
+p{
+    font-size: 32pt;
+    padding-top: 32px;
+    padding-left: 26px;
+}
+
+sub{
+  font-size: 32pt;
+}

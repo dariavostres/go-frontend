@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.parrent{
+    margin: 5px
+}
+
+.child-red{
+    height: 40px;
+    width: 50px;
+    background-color: red;
+    margin-bottom: 16px;
+}
+
+.child-orange{
+    height: 40px;
+    width: 100px;
+    background-color: orange;
+    margin-bottom: 16px;
+}
+
+.child-blue{
+    height: 40px;
+    width: 150px;
+    background-color: blue;
+}

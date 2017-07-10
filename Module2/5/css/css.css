@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parrent{
+    background-color: #d6d7be;
+    height: 218px;
+    width: 483px;
+}
+
+.child-light{
+    padding-left: 6px;
+}
+
+h1{
+    color: #532601;
+    font-family: Arial, Helvetica, sans-serif;
+    size: 20pt;
+    padding-top: 10px;
+}
+
+h2{
+    color: black;
+    size: 16pt;
+    padding-top: 18px;
+}
+
+h3{
+    color: #875327;
+    size: 12pt;
+    padding-top: 18px;
+}
+
+a{
+    color: green;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    size: 12pt;
+    padding-top: 18px;
+}
