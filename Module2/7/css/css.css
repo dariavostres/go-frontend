@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parrent{
+    height: 130px;
+    width: 420px;
+     border: 2px  dashed black;
+}
+
+.child-light{
+    margin: auto;
+   padding: 10px 10px ;
+}
+
+sup{
+    color: red;
+}
+
+sub{
+    color: blue;
+}

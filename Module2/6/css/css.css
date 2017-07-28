@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parrent{
+    height: 100px;
+    width: 530px;
+     border: 2px  dashed black;
+}
+
+.child-light{
+    margin: auto;
+   padding: 10px 10px ;
