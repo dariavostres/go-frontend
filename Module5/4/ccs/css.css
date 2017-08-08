@@ -1,0 +1,55 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0 none;
+    box-sizing: border-box;
+    text-align: center;
+    outline: 2px solid #000; 
+}
+
+html{
+    outline: 0;
+}
+
+body{
+    outline: none;
+}
+
+.fullwrap{
+    margin: 15px;
+    width: 485px;
+    height: 530px;
+    padding: 10px;
+}
+
+header{
+    min-width: 460px;
+    min-height: 60px;
+}
+
+.wrap{
+margin: 10px 0;
+max-width: 465px;
+height: 320px;
+}
+
+
+.main{
+margin: 10px;
+width: 255px;
+height: 295px;
+float: left;
+}
+
+.sidebar{
+margin: 10px;
+width: 160px;
+height: 295px;
+float: right;
+}
+
+.footer{
+height: 100px;
+width: 465px;
+}

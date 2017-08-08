@@ -1,0 +1,33 @@
+.parent {
+  width: 300px;
+  min-height: 20px;
+  background: none;
+    overflow: auto;
+}
+.rows {
+  width: 100px;
+  height: 100px;
+  background: #00F1FF;
+}
+
+.row1 {
+  background: blue;
+  float:left;
+}
+
+.row2a {
+  background:  none;
+  float:left;;
+  clear: left;
+}
+
+.row2 {
+  background: red;
+  float:left;
+}
+
+.row3 {
+  background: yellow;
+  float:right;
+  clear: left;
+}
