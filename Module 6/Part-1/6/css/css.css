@@ -1,0 +1,20 @@
+   *{
+     margin: 0 auto;
+     padding: 0;
+     outline: 0 none;
+    box-sizing: border-box;
+    text-align: center;
+   }
+
+
+    p {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 20px; 
+   }
+
+p::after{
+    
+      content: "☂";
+      padding: 2px; 
+      list-style: none;
+}
