@@ -37,7 +37,7 @@ body  {
 }
 
 
-.lgp #wrapper { 
+.lgp .wrapper { 
 	width: 960px;  
 	background-image:url(images/header-bg.png);
 	background-repeat:repeat-x;
