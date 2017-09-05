@@ -1,0 +1,142 @@
+*{
+    margin:  0 ;
+}
+
+body {
+    background-color: #d1d1d1 ;
+    font-family: Arial;
+    line-height: 20px;
+}
+
+.wrapper {
+    width: 640px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+header img {
+    width: 640px;
+    height: 150px;
+}
+
+.info {
+    height: 265px;
+    padding: 52px 50px 37px;
+}
+
+.info p {
+    margin-bottom: 32px;
+}
+
+.friends.title {
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.offer_2pcs,
+.offer_3pcs,
+.resume {
+    padding: 0 50px;
+}
+
+.offer_2pcs img {
+    width: 255px;
+    height: 213px;
+    margin-bottom: 12px;
+}
+
+.gynecologist {
+    float: left;
+    width: 255px;
+}
+
+.dentist {
+    float: right;
+    width: 255px;
+}
+
+.gynecologist p,
+.dentist p {
+    margin-bottom: 41px;
+}
+
+.clearfix:after {
+    content: " ";
+    display: block;
+    visibility: hidden;
+    height: 0;
+    clear: both;
+}
+
+button {
+    height: 41px;
+    background-color: #d55c4a ;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    line-height: 41px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.offer_3pcs img {
+    width: 160px;
+    height: 213px;
+}
+
+.cardiologist,
+.neurologist {
+    float: left;
+    width: 160px;
+    margin-right: 30px;
+}
+
+.uzi {
+    float: right;
+    width: 160px;
+}
+
+.offer_3pcs p {
+    margin-top: 9px;
+    margin-bottom: 15px;
+}
+
+.offer_3pcs {
+    line-height: 23px;
+    margin-top: 30px;
+}
+
+.cardiologist p {
+    margin-bottom: 38px;
+}
+
+.resume {
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+.resume button {
+    margin-top: 55px;
+}
+
+.unsubscribe {
+    margin-top: 43px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+    line-height: 21px;
+}
+
+.unsubscribe a {
+    color: #fff;
+    font-weight: bold;
+}
